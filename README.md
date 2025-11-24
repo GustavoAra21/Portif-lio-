@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gustavo Aragao de Souza, tenho 22 anos e sou natural de Brasília-DF. Concluí o ensino médio no pelo INEP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou bastante apegado por tecnologia.
+Me chamo Gustavo Aragao Souza, tenho 22 anos e sou natural de Brasília-DF. Concluí o ensino médio no pelo INEP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou bastante apegado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/GustavoAra21">
